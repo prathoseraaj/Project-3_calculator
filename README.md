@@ -1,1 +1,7 @@
-![image](https://github.com/user-attachments/assets/787d501e-3290-4289-be33-642f0039caf3)
+Functions: Addition, subtraction, multiplication, division.
+Display: Typically a single-line display.
+Use Case: General arithmetic, everyday calculations.
+![Uploading image.png…]()
+
+
+
